@@ -7,7 +7,10 @@
 
 body {
   font-family: 'Arial', sans-serif;
-  background-color: #f7f9fc;
+  background-color: #0f1010;
+  background-image: url("../src/calc.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
   display: flex;
   justify-content: center;
   align-items: center;
